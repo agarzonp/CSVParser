@@ -8,7 +8,7 @@ int main(int argc, char **argv)
 	{
 		for (auto& row : csvParser.Rows())
 		{
-			for (int index = 0; index < row.NumTokens(); index++)
+			for (size_t index = 0; index < row.NumTokens(); index++)
 			{
 				printf("%s, ", row[index]);
 			}

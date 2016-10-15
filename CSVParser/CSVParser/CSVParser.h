@@ -35,7 +35,7 @@ namespace agarzonp
 			return "";
 		}
 
-		const int NumTokens() const { return tokens.size(); }
+		const size_t NumTokens() const { return tokens.size(); }
 	};
 
 
