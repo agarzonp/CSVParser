@@ -1,0 +1,4 @@
+enemyA,common,3,
+enemyB,common,4,
+enemyB,leader,4,true
+enemyC,boss,,true
