@@ -1,0 +1,11 @@
+*.db
+*.opendb
+*.suo
+*.exe
+*.log
+CSVParser/Debug/CSVParser.pdb
+*.tlog
+CSVParser/Debug/main.obj
+*.ilk
+CSVParser/Debug/vc140.idb
+*.pdb
